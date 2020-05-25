@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EVTX-ATTACK-SAMPLES" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/evtx2es" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mordor" vcs="Git" />
+  </component>
+</project>
